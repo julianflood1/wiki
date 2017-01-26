@@ -2,6 +2,7 @@
   border-right: 1px solid skyblue;
 }
 .side-section{
+  padding-left: 15px;
   margin-top: 20px;
   border-bottom: 1px solid grey;
 }
@@ -24,6 +25,7 @@
 }
 
 #header {
+  margin-top: 20px;
 }
 
 .content-row {
@@ -36,7 +38,20 @@
 }
 
 .left-content {
+  background-color: #f5fffa;
   border-right: solid white 10px;
+}
+
+.right-content {
+  background-color: #f5faff;
+}
+
+.well-left {
+  background-color: #e2f7ec;
+}
+
+.well-right {
+  background-color: #e7f2fd;
 }
 
 #featured-pic {
