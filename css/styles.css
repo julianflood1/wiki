@@ -1,8 +1,5 @@
 #sidebar {
-  float: left;
-  width: 200px;
   border-right: 1px solid skyblue;
-  padding:20px;
 }
 .side-section{
   margin-top: 20px;
@@ -12,11 +9,10 @@
 #main {
   float: right;
   padding:25px;
-  width:90%;
 }
 #welcome {
   float: left;
-  width:60%;
+  width:50%;
 }
 
 #top-links {
@@ -39,8 +35,8 @@
   font-size: 20px;
 }
 
-.col-content {
-  height: 950px;
+.left-content {
+  border-right: solid white 10px;
 }
 
 #featured-pic {
